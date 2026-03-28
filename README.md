@@ -43,12 +43,3 @@ A simple project that shows **why feature scaling matters** when training a neur
 ---
 
 
-## Requirements
-
-```
-torch
-numpy
-pandas
-scikit-learn
-matplotlib
-```
