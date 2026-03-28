@@ -1,10 +1,10 @@
 # PyTorch Feature Scaling Demo
 
-A simple project that shows **why feature scaling matters** when training a neural network.
+A simple repositories that shows **why feature scaling matters** when training a neural network.
 
 ---
 
-## What this project does
+## What this repositories does
 
 - Loads the **Social Network Ads** dataset
 - Trains a small neural network **without scaling** → poor accuracy (~60%)
