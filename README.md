@@ -42,13 +42,6 @@ A simple project that shows **why feature scaling matters** when training a neur
 
 ---
 
-## How to run
-
-1. Open the `.ipynb` file in **Google Colab** or **Jupyter Notebook**
-2. Upload `Social_Network_Ads.csv`
-3. Run all cells in order
-
----
 
 ## Requirements
 
